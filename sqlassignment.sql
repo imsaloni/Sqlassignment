@@ -1,1 +1,1 @@
-select * from Customers where Country='america';
+select * from Customers 
